@@ -11,7 +11,7 @@
 
 <h3>Entregáveis</h3>
 <ul>
-  <li><b>Base de dados inicial</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/main/data_export_v1.csv" target="_blank">aqui</a> a planilha do Excel)</li>
+  <li><b>Base de dados inicial</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/master/data_export_v1.csv" target="_blank">aqui</a> a planilha do Excel)</li>
   <li><b>Kanban</b> (acesse <a href="https://trello.com/b/P5cRc8ro/gama-academy-projeto-ipp" target="_blank">aqui</a> a divisão de tarefas no Trello*)
   <li><b>MER</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/main/DIAGRAMA.png" target="_blank">aqui</a> para visualizar o Modelo Entidade Relacionamento)</li>
   <li><b>DashBoard</b> (acesse <a href="" target="_blank">aqui</a> para visualizar os dados no Power BI)
