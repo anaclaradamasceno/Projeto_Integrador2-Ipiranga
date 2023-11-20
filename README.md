@@ -1,4 +1,4 @@
-![Header ipiranga](https://github.com/Lilianor/projeto_final_ipiranga/blob/master/header.png?raw=true)
+<img src="https://ibb.co/F3MhW5x">
 
 <h1>PROJETO INTEGRADOR DADOS</h1>
 
@@ -13,7 +13,7 @@
 <ul>
   <li><b>Base de dados inicial</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/master/data_export_v1.csv" target="_blank">aqui</a> a planilha do Excel)</li>
   <li><b>Kanban</b> (acesse <a href="https://trello.com/b/P5cRc8ro/gama-academy-projeto-ipp" target="_blank">aqui</a> a divisão de tarefas no Trello*)
-  <li><b>MER</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/main/DIAGRAMA.png" target="_blank">aqui</a> para visualizar o Modelo Entidade Relacionamento)</li>
+  <li><b>MER</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/master/DIAGRAMA.png" target="_blank">aqui</a> para visualizar o Modelo Entidade Relacionamento)</li>
   <li><b>DashBoard</b> (acesse <a href="" target="_blank">aqui</a> para visualizar os dados no Power BI)
   <li><b>Apresentação</b> (acesse <a href="" target="_blank">aqui</a> para o arquivo em Powerpoint) 
 </ul>
@@ -25,27 +25,27 @@
 <ul> 
   <li>Ana Clara Martins Damasceno 
     <a href="https://github.com/anaclaradamasceno">
-      <img src="" width="20">
+      <img src="https://ibb.co/41sjMcS" width="20">
     </a>
   </li>
   <li>Lilian Oliveira Roberto
     <a href="https://github.com/Lilianor">
-      <img src="" width="20">
+      <img src="https://ibb.co/41sjMcS" width="20">
     </a>
   </li>
   <li>Maria Heloisa Fortes Pereira 
     <a href="">
-      <img src="" width="20">
+      <img src="https://ibb.co/41sjMcS" width="20">
     </a>
   </li>
   <li>Nelson Peixoto Teixeira Filho 
     <a href="">
-      <img src="" width="20">
+      <img src="https://ibb.co/41sjMcS" width="20">
     </a>
   </li>
   <li>Pierre da Silva Rodrigues
     <a href="https://github.com/PierreRodrigues">
-      <img src="" width="20">
+      <img src="https://ibb.co/41sjMcS" width="20">
     </a>
   </li>
 </ul>
