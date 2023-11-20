@@ -1,4 +1,4 @@
-![alt text](https://github.com/Lilianor/projeto_final_ipiranga/blob/master/image.png?raw=true)
+![Header ipiranga](https://github.com/Lilianor/projeto_final_ipiranga/blob/master/image.png?raw=true)
 
 <h1>PROGRAMA INCLUSÃO TECH</h1>
 
