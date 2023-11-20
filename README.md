@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/DWy1b9V/image.png">
+<img src="https://i.ibb.co/DWy1b9V/image.png" width="100%">
 
 <h1>PROJETO INTEGRADOR DADOS</h1>
 
