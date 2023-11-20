@@ -1,4 +1,4 @@
-<img src="./image.png">
+<img src="image.png">
 
 <h1>PROGRAMA INCLUSÃO TECH</h1>
 
