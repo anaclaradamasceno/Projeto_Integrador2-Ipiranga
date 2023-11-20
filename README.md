@@ -1,4 +1,4 @@
-<img src="https://ibb.co/DWy1b9V/image.png">
+<img src="https://i.ibb.co/DWy1b9V/image.png">
 
 <h1>PROJETO INTEGRADOR DADOS</h1>
 
@@ -25,27 +25,27 @@
 <ul> 
   <li>Ana Clara Martins Damasceno 
     <a href="https://github.com/anaclaradamasceno">
-      <img src="https://ibb.co/phW3ZgK/github.png" width="20">
+      <img src="https://i.ibb.co/phW3ZgK/github.png" width="20">
     </a>
   </li>
   <li>Lilian Oliveira Roberto
     <a href="https://github.com/Lilianor">
-      <img src="https://ibb.co/phW3ZgK/github.png" width="20">
+      <img src="https://i.ibb.co/phW3ZgK/github.png" width="20">
     </a>
   </li>
   <li>Maria Heloisa Fortes Pereira 
     <a href="">
-      <img src="https://ibb.co/phW3ZgK/github.png" width="20">
+      <img src="https://i.ibb.co/phW3ZgK/github.png" width="20">
     </a>
   </li>
   <li>Nelson Peixoto Teixeira Filho 
     <a href="">
-      <img src="https://ibb.co/phW3ZgK/github.png" width="20">
+      <img src="https://i.ibb.co/phW3ZgK/github.png" width="20">
     </a>
   </li>
   <li>Pierre da Silva Rodrigues
     <a href="https://github.com/PierreRodrigues">
-      <img src="https://ibb.co/phW3ZgK/github.png" width="20">
+      <img src="https://i.ibb.co/phW3ZgK/github.png" width="20">
     </a>
   </li>
 </ul>
