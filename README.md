@@ -12,6 +12,8 @@
 <h3>Entregáveis</h3>
 <ul>
   <li><b>Base de dados inicial</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/master/data_export_v1.csv" target="_blank">aqui</a> a planilha do Excel)</li>
+  <li><b>Conexão MySQL/Python</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/master/ConexaoMySQL.py" target="_blank">aqui</a> o código em Python)</li>
+  <li><b>Banco de Dados MySQL</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/master/bd_mysql.txt" target="_blank">aqui</a> a criação das tabelas no MySQL)</li>
   <li><b>Kanban</b> (acesse <a href="https://trello.com/b/P5cRc8ro/gama-academy-projeto-ipp" target="_blank">aqui</a> a divisão de tarefas no Trello*)
   <li><b>MER</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/master/DIAGRAMA.png" target="_blank">aqui</a> para visualizar o Modelo Entidade Relacionamento)</li>
   <li><b>DashBoard</b> (acesse <a href="" target="_blank">aqui</a> para visualizar os dados no Power BI)
@@ -34,12 +36,12 @@
     </a>
   </li>
   <li>Maria Heloisa Fortes Pereira 
-    <a href="">
+    <a href="https://github.com/FortesHeloisa">
       <img src="https://i.ibb.co/phW3ZgK/github.png" width="20">
     </a>
   </li>
   <li>Nelson Peixoto Teixeira Filho 
-    <a href="">
+    <a href="https://github.com/nptfilho">
       <img src="https://i.ibb.co/phW3ZgK/github.png" width="20">
     </a>
   </li>

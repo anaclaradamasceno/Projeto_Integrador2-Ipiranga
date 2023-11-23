@@ -1,0 +1,67 @@
+create database t_final;
+use t_final;
+ 
+create table empresa (
+cod_empresa bigint not null primary key,
+nome_empresa varchar(100) not null
+);
+ 
+create table tipo_cliente (
+cod_tipo_cliente bigint not null primary key,
+nome_tipo_cliente varchar(50) not null
+);
+ 
+create table cliente (
+cod_cliente bigint not null primary key,
+cod_tipo_cliente bigint not null,
+cod_empresa bigint not null
+);
+ 
+create table produto (
+cod_produto bigint not null primary key,
+nome_produto varchar(100) not null,
+marca_produto varchar(100) not null
+);
+ 
+create table cliente_produto (
+cod_produto bigint not null,
+cod_cliente bigint not null
+);
+ 
+create table regiao (
+cod_municipio int not null primary key,
+nome_municipio varchar(100) not null,
+uf varchar(100) not null
+);
+ 
+create table regiao_produto (
+cod_municipio int not null,
+cod_produto bigint not null
+);
+ 
+create table regiao_cliente (
+cod_municipio int not null,
+cod_cliente bigint not null
+);
+ 
+create table venda (
+id_venda int not null primary key,
+ano_mes int not null, 
+vol_litros int not null,
+total_bruto float not null
+);
+ 
+create table venda_regiao (
+id_venda int not null,
+cod_municipio int not null
+);
+ 
+create table venda_produto (
+id_venda int not null,
+cod_produto bigint not null
+);
+ 
+create table venda_cliente (
+id_venda int not null ,
+cod_cliente bigint not null
+);
