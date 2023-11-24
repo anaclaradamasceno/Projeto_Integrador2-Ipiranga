@@ -14,10 +14,11 @@
   <li><b>Base de dados inicial</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/master/data_export_v1.csv" target="_blank">aqui</a> a planilha do Excel)</li>
   <li><b>Conexão MySQL/Python</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/master/ConexaoMySQL.py" target="_blank">aqui</a> o código em Python)</li>
   <li><b>Banco de Dados MySQL</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/master/bd_mysql.txt" target="_blank">aqui</a> a criação das tabelas no MySQL)</li>
-  <li><b>Kanban</b> (acesse <a href="https://trello.com/b/P5cRc8ro/gama-academy-projeto-ipp" target="_blank">aqui</a> a divisão de tarefas no Trello*)
-  <li><b>MER</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/master/DIAGRAMA.png" target="_blank">aqui</a> para visualizar o Modelo Entidade Relacionamento)</li>
-  <li><b>DashBoard</b> (acesse <a href="" target="_blank">aqui</a> para visualizar os dados no Power BI)
-  <li><b>Apresentação</b> (acesse <a href="" target="_blank">aqui</a> para o arquivo em Powerpoint) 
+  <li><b>Kanban</b> (acesse <a href="https://trello.com/b/P5cRc8ro/gama-academy-projeto-ipp" target="_blank">aqui</a> a divisão de tarefas no Trello*)</li>
+  <li><b>Diagrama Modelo Entidade Relacionamento (MER)</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/master/MER.png" target="_blank">aqui</a> para visualizar o Modelo Entidade Relacionamento)</li>
+  <li><b>Documentação Arquitetura de Dados</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/master/" target="_blank">aqui</a> para visualizar a documentação em PDF)</li>
+  <li><b>DashBoard</b> (acesse <a href="" target="_blank">aqui</a> para visualizar os dados no Power BI)</li>
+  <li><b>Apresentação</b> (acesse <a href="" target="_blank">aqui</a> para o arquivo em Powerpoint)</li>
 </ul>
 <p>* Necessário fazer login no Trello</p> 
 
@@ -54,4 +55,4 @@
 
 <br>
 <br>
-<img src="https://i.ibb.co/1JdWqQn/bannerinferiorreadme.png">
+<img src="https://i.ibb.co/1JdWqQn/bannerinferiorreadme.png">     
