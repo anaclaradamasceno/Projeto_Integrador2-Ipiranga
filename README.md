@@ -17,9 +17,9 @@
   <li><b>Kanban</b> (acesse <a href="https://trello.com/b/P5cRc8ro/gama-academy-projeto-ipp" target="_blank">aqui</a> a divisão de tarefas no Trello*)</li>
   <li><b>Diagrama Modelo Entidade Relacionamento (MER)</b> (acesse <a href="https://grupoultracloud-my.sharepoint.com/:i:/r/personal/lilian_roberto_ipiranga_ipiranga/Documents/%C3%81rea%20de%20Trabalho/Projeto%20Integrador%20Ipiranga/MER.png?csf=1&web=1&e=Zrzg9X" target="_blank">aqui</a> para visualizar o Modelo Entidade Relacionamento)</li>
   <li><b>Documentação Arquitetura de Dados</b> (acesse <a href="https://grupoultracloud-my.sharepoint.com/personal/lilian_roberto_ipiranga_ipiranga/_layouts/15/onedrive.aspx?q=Conexao&searchScope=all&id=%2Fpersonal%2Flilian%5Froberto%5Fipiranga%5Fipiranga%2FDocuments%2F%C3%81rea%20de%20Trabalho%2FDocumenta%C3%A7%C3%A3o%20Arquitetura%20de%20Dados%2Epdf&parentview=7" target="_blank">aqui</a> para visualizar a documentação em PDF)</li>
-  <li><b>DashBoard</b> (acesse <a href="" target="_blank">aqui</a> para visualizar os dados no Power BI)</li>
+  <li><b>DashBoard</b> (acesse <a href="https://app.powerbi.com/groups/me/reports/0249878d-e955-405f-9481-4aff1dba531d/ReportSection0d57b037780681ed793c?experience=power-bi" target="_blank">aqui</a> para visualizar os dados no Power BI)</li>
   <li><b>DashBoard no Excel</b> (acesse <a href="https://grupoultracloud-my.sharepoint.com/:x:/r/personal/lilian_roberto_ipiranga_ipiranga/Documents/%C3%81rea%20de%20Trabalho/exceldashsemmacro_heloversion%201.xlsm?d=wf6fb13ea27d244298bec9fc81ac62119&csf=1&web=1&e=COReot" target="_blank">aqui</a> para visualizar os dados no Excel)</li>
-  <li><b>Apresentação</b> (acesse <a href="" target="_blank">aqui</a> para o arquivo em Powerpoint)</li>
+  <li><b>Apresentação</b> (acesse <a href="https://grupoultracloud-my.sharepoint.com/:p:/g/personal/pierre_rodrigues_ipiranga_ipiranga/ES3YEqFbgrVPm8luLcq08BYB5jte-l6wFbyaJQyYwaYmhA?e=H7PxbK" target="_blank">aqui</a> para o arquivo em Powerpoint)</li>
 </ul>
 <p>* Necessário fazer login no Trello</p> 
 
