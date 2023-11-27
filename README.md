@@ -11,8 +11,8 @@
 
 <h3>Entregáveis</h3>
 <ul>
-  <li><b>Base de dados inicial</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/master/data_export_v1.csv" target="_blank">aqui</a> a planilha do Excel)</li>
-  <li><b>Conexão MySQL/Python</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/master/ConexaoMySQL.py" target="_blank">aqui</a> o código em Python)</li>
+  <li><b>Base de dados inicial</b> (acesse <a href="https://grupoultracloud-my.sharepoint.com/:x:/r/personal/nelson_peixoto_ipiranga_ipiranga/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/data_export_v1.csv?d=wde7a98ae096946f38f7dba26e4038aa7&csf=1&web=1&e=Kkg4uy" target="_blank">aqui</a> a planilha do Excel)</li>
+  <li><b>Conexão MySQL/Python</b> (acesse <a href="https://grupoultracloud-my.sharepoint.com/personal/maria_hpereira_ipiranga_ipiranga/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmaria%5Fhpereira%5Fipiranga%5Fipiranga%2FDocuments%2FArquivos%20de%20Chat%20do%20Microsoft%20Teams%2FConex%C3%A3o%20MySQL%2Epy&parent=%2Fpersonal%2Fmaria%5Fhpereira%5Fipiranga%5Fipiranga%2FDocuments%2FArquivos%20de%20Chat%20do%20Microsoft%20Teams" target="_blank">aqui</a> o código em Python)</li>
   <li><b>Banco de Dados MySQL</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/master/bd_mysql.txt" target="_blank">aqui</a> a criação das tabelas no MySQL)</li>
   <li><b>Kanban</b> (acesse <a href="https://trello.com/b/P5cRc8ro/gama-academy-projeto-ipp" target="_blank">aqui</a> a divisão de tarefas no Trello*)</li>
   <li><b>Diagrama Modelo Entidade Relacionamento (MER)</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/master/MER.png" target="_blank">aqui</a> para visualizar o Modelo Entidade Relacionamento)</li>
