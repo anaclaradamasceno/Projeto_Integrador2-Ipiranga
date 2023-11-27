@@ -16,7 +16,7 @@
   <li><b>Banco de Dados MySQL</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/master/bd_mysql.txt" target="_blank">aqui</a> a criação das tabelas no MySQL)</li>
   <li><b>Kanban</b> (acesse <a href="https://trello.com/b/P5cRc8ro/gama-academy-projeto-ipp" target="_blank">aqui</a> a divisão de tarefas no Trello*)</li>
   <li><b>Diagrama Modelo Entidade Relacionamento (MER)</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/master/MER.png" target="_blank">aqui</a> para visualizar o Modelo Entidade Relacionamento)</li>
-  <li><b>Documentação Arquitetura de Dados</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/master/" target="_blank">aqui</a> para visualizar a documentação em PDF)</li>
+  <li><b>Documentação Arquitetura de Dados</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/master/Documentação Arquitetura de Dados.pdf" target="_blank">aqui</a> para visualizar a documentação em PDF)</li>
   <li><b>DashBoard</b> (acesse <a href="" target="_blank">aqui</a> para visualizar os dados no Power BI)</li>
   <li><b>DashBoard no Excel</b> (acesse <a href="https://github.com/Lilianor/projeto_final_ipiranga/blob/master/exceldashsemmacro_heloversion 1.xlsm" target="_blank">aqui</a> para visualizar os dados no Excel)</li>
   <li><b>Apresentação</b> (acesse <a href="" target="_blank">aqui</a> para o arquivo em Powerpoint)</li>
